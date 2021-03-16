@@ -1,3 +1,3 @@
-# webpack-basic-config
+# Promises Training
 
-A basic configuration of webpack for a js project
+A basic compilation of exercises of promises of JavaScript
